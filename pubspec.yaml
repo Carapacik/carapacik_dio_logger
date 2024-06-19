@@ -2,6 +2,12 @@ name: carapacik_dio_logger
 description: "Dio interceptor that logs in a easy to read format with curl command and colored output"
 version: 1.0.0
 repository: https://github.com/Carapacik/carapacik_dio_logger
+topics:
+  - dio
+  - http
+  - network
+  - logger
+  - logging
 environment:
   sdk: '>=3.0.0 <4.0.0'
 

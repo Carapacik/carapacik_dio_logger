@@ -1,0 +1,12 @@
+name: example
+description: A project that showcases usage of carapacik_dio_logger
+publish_to: none
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  carapacik_dio_logger: ^1.0.0
+  dio: ^5.2.0
+
+dev_dependencies:
+  carapacik_lints: ^1.4.2
